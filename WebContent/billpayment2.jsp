@@ -17,12 +17,9 @@
       <input type="text" name="ssoid" placeholder="SSOID" />
       <input type="number" name="amount" placeholder="amount" required="true"/>
       <input type="password" placeholder="password"/>
-      <button>submit</button>
-      
-    </form>
-    <br>
-     <form class="register-form" action="signin2.jsp" method="post">
-    <button1>Sign Out</button1>
+      <button>submit</button>      
+    <p></p>
+    <button type="button" onclick="history.back()">Sign Out</button>
     </form>
   </div>
 </div>

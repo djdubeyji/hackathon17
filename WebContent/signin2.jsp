@@ -31,7 +31,7 @@
   <div class="register-page">
   <div class="form">
 
-    <form class="register-form" action="registerdb.jsp" method="post()" name="myForm" onsubmit="return confirm()">
+    <form class="register-form" action="registerdb.jsp" method="post" name="myForm" onsubmit="return confirm()">
       <input type="text" placeholder="name" name="name"  />
       <input type="text" placeholder="uname" name="uname" />
       <input type="password" placeholder="password" name="pass"  />

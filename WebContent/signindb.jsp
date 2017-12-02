@@ -30,7 +30,7 @@
     
     if(flag!=0)
     {
-    	response.sendRedirect("billpayment.jsp");
+    	response.sendRedirect("billpayment2.jsp");
     }
     else
     {
